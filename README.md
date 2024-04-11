@@ -19,7 +19,6 @@ Desafio do Programa Oracle Next Education (ONE), em parceria com a Alura, no qua
 5. [Status do Projeto](#5-status-do-projeto)
 6. [Badge do Projeto](#6-badge-conclusão-challenge)
 
-
 #
 
 ### **1. Implementações**
@@ -48,7 +47,7 @@ Para acessar, clique <a href="[#](https://portifolio-douglaslourencoo.netlify.ap
 
 ### **4. Autor e contato**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-lourencoo-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimirrodrigues/)
 
 #
 
@@ -65,4 +64,3 @@ Para acessar, clique <a href="[#](https://portifolio-douglaslourencoo.netlify.ap
 <div align="center">
     <img src="./assets/Site.png" width="400px" />
 </div>
-
